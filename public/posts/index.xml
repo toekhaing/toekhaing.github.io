@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Posts on My nice blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My nice blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Some copyright notice - [my license](https://example.com/license)</copyright>
+    <lastBuildDate>Sat, 21 Dec 2024 02:30:10 +0700</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Sat, 21 Dec 2024 02:30:10 +0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description><![CDATA[<h2 id="this-is-a-test-post">This is a test post.</h2>
+]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>
