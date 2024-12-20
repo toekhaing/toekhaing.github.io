@@ -1,20 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Posts on My nice blog</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://toekhaing.github.io/posts/</link>
     <description>Recent content in Posts on My nice blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Some copyright notice - [my license](https://example.com/license)</copyright>
-    <lastBuildDate>Sat, 21 Dec 2024 02:30:10 +0700</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.svg</icon>
+    <lastBuildDate>Sat, 21 Dec 2024 02:33:32 +0700</lastBuildDate><atom:link href="https://toekhaing.github.io/posts/index.xml" rel="self" type="application/rss+xml" /><icon>https://toekhaing.github.io/logo.svg</icon>
+    
+    
+    <item>
+      <title>Second Post</title>
+      <link>https://toekhaing.github.io/posts/second-post/</link>
+      <pubDate>Sat, 21 Dec 2024 02:33:32 +0700</pubDate>
+      
+      <guid>https://toekhaing.github.io/posts/second-post/</guid>
+      <description><![CDATA[<h1 id="just-an-another-post">Just an another post</h1>
+]]></description>
+      
+    </item>
+    
     
     
     <item>
       <title>First Post</title>
-      <link>http://localhost:1313/posts/first-post/</link>
+      <link>https://toekhaing.github.io/posts/first-post/</link>
       <pubDate>Sat, 21 Dec 2024 02:30:10 +0700</pubDate>
       
-      <guid>http://localhost:1313/posts/first-post/</guid>
+      <guid>https://toekhaing.github.io/posts/first-post/</guid>
       <description><![CDATA[<h2 id="this-is-a-test-post">This is a test post.</h2>
 ]]></description>
       

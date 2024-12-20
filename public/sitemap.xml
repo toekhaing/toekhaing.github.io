@@ -2,21 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/first-post/</loc>
+    <loc>https://toekhaing.github.io/</loc>
+    <lastmod>2024-12-21T02:33:32+07:00</lastmod>
+  </url><url>
+    <loc>https://toekhaing.github.io/posts/</loc>
+    <lastmod>2024-12-21T02:33:32+07:00</lastmod>
+  </url><url>
+    <loc>https://toekhaing.github.io/posts/second-post/</loc>
+    <lastmod>2024-12-21T02:33:32+07:00</lastmod>
+  </url><url>
+    <loc>https://toekhaing.github.io/posts/first-post/</loc>
     <lastmod>2024-12-21T02:30:10+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-12-21T02:30:10+07:00</lastmod>
+    <loc>https://toekhaing.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-12-21T02:30:10+07:00</lastmod>
+    <loc>https://toekhaing.github.io/manifest/index.json</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://toekhaing.github.io/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/manifest/index.json</loc>
-  </url><url>
-    <loc>http://localhost:1313/search/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://toekhaing.github.io/tags/</loc>
   </url>
 </urlset>

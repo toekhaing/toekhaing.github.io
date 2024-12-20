@@ -8,6 +8,10 @@
         
         
     
-    "pages": [{"date":"2024-12-21","image":"","imageAlt":"","link":"http://localhost:1313/posts/first-post/","summary":"\u003ch2 id=\"this-is-a-test-post\"\u003eThis is a test post.\u003c/h2\u003e","tags":[],"text":"this is a test post. ","title":"First Post"}]
+        
+        
+        
+    
+    "pages": [{"date":"2024-12-21","image":"","imageAlt":"","link":"https://toekhaing.github.io/posts/second-post/","summary":"\u003ch1 id=\"just-an-another-post\"\u003eJust an another post\u003c/h1\u003e","tags":[],"text":"just an another post ","title":"Second Post"},{"date":"2024-12-21","image":"","imageAlt":"","link":"https://toekhaing.github.io/posts/first-post/","summary":"\u003ch2 id=\"this-is-a-test-post\"\u003eThis is a test post.\u003c/h2\u003e","tags":[],"text":"this is a test post. ","title":"First Post"}]
 }
 
